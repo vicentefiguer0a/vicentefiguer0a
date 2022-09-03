@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Vicente Figueroa</h1>
-<h3 align="center">I'm currently a Full Stack Development student @Codeup</h3>
+<h1 align="left">Hi 👋, I'm Vicente Figueroa</h1>
+<h3 align="left">I'm currently a Full Stack Development student @Codeup</h3>
 
-- 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
+- 👨‍💻 All of my projects are available at (coming soon...)
 
 - 📫 How to reach me **figueroa.vicente9@gmail.com**
 
