@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="left">Hi 👋, I'm Vicente Figueroa</h1>
-<h3 align="left">I'm currently a Full Stack Development student @Codeup who has found a passion for coding.</h3>
+<h3 align="left">I'm currently a Full-Stack Development student @Codeup who has found a passion for coding.</h3>
 
 - ⚡ I’m currently learning about AJAX requests.
 
