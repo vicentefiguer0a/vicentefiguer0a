@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="left">Hi 👋, I'm Vicente Figueroa</h1>
 <h3 align="left">I'm currently a Full-Stack Development student @Codeup who has found a passion for coding.</h3>
 
-- ⚡ I’m currently learning about Java File I/O.
+- ⚡ I’m currently learning about JUnit testing in Java.
 
 - 👨‍💻 All of my projects are available at (coming soon...)
 
