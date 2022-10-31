@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Vicente Figueroa</h1>
-<h3 align="center">I'm a Full-Stack Developer who has found a passion for coding.</h3>
+<h3 align="center">I'm a Full-Stack Developer who has a passion for coding.</h3>
 
 - ⚡ I’m currently learning MySQL Sub-Queries and Database Design.
 
-- 👨‍💻 All of my projects are available at [[https://vicentefiguer0a.github.io](vicentefiguer0a.github.io)](https://vicentefiguer0a.github.io/)
+- 👨‍💻 All of my projects are available at vicentefiguer0a.github.io
 
 - 📫 How to reach me **figueroa.vicente9@gmail.com**
 
