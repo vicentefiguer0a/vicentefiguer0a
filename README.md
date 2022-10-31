@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - ⚡ I’m currently learning MySQL Sub-Queries and Database Design.
 
-- 👨‍💻 All of my projects are available at [https://vicentefiguer0a.github.io](vicentefiguer0a.github.io)
+- 👨‍💻 All of my projects are available at [[https://vicentefiguer0a.github.io](vicentefiguer0a.github.io)](https://vicentefiguer0a.github.io/)
 
 - 📫 How to reach me **figueroa.vicente9@gmail.com**
 
