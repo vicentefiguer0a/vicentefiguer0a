@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Vicente Figueroa</h1>
 <h3 align="left">I'm a Full-Stack Developer who has a passion for coding.</h3>
 
-- ⚡ I’m currently learning Java Sessions and Cookies.
+- ⚡ I’m currently learning Java JDBC.
 
 - 👨‍💻 All of my projects are available at vicentefiguer0a.github.io
 
