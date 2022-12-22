@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="left">Hi 👋, I'm Vicente Figueroa (vee-sen-tey) (fig-uh-ro-uh) or just Vince.</h1>
 <h3 align="left">I'm a Full-Stack Java Developer who codes on and off the clock.</h3>
 
-- 💬 I’m currently working on a REST API for my groups full-stack application using React & Java Spring Boot.
+- 💬 I’m currently building a full-stack application in a team of 4 using React JS & Spring Boot.
 
 - 📫 How to reach me **figueroa.vicente9@gmail.com**
 
