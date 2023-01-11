@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey ( ͡👁 ͜ʖ ͡👁), I'm Vicente Figueroa.
+<h1 align="center">Hey ( ͡👁 ͜ʖ ͡👁), I'm Vicente Figueroa.</h1>
 <h3 align="center">I'm a Full-Stack Java Developer who codes on and off the clock.</h3>
   
 <p>- 💬 I'm currently working with 3 other developers on a NFL based full-stack application.</p>
